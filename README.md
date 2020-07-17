@@ -38,3 +38,9 @@ If you have questions, feel free to visit us on in the [SpiderMonkey room on Mat
 * If you're looking at some code in SpiderMonkey, and are trying to figure out how it gets triggered, one of the easiest ways to do this is to inject a crash by putting `MOZ_RELEASE_ASSERT(false);` into the code, then running the tests. They will fails when they trigger that line.
 ```
 
+## Checklist for Opening Good First Bugs
+
+* Whiteboard: Add `[lang=c++]` (unless something else is appropriate)
+* Keywords: `good-first-bug`
+* Mentored: Your Email
+

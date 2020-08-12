@@ -30,7 +30,7 @@ Before getting started, you'll want to
 
 ## Questions
 
-If you have questions, feel free to visit us on in the [SpiderMonkey room on Matrix](https://matrix.to/#/!CZEbuMfGYVdQMIBKeP:mozilla.org?via=mozilla.org&via=igalia.com&via=matrix.org_), or post questions here.
+If you have questions, feel free to visit us on in the SpiderMonkey room on [Matrix](https://matrix.org/). If you don't have a Matrix account, you can sign up [here](https://chat.mozilla.org/), or post questions here.
 
 ## Tips and Tricks: 
 
